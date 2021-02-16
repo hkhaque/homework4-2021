@@ -128,7 +128,7 @@ tbody tr:last-child td:last-child{
 /*Req 8*/
 footer{
   width:100%;
-  min-width: 75px;
+  min-height: 75px;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
